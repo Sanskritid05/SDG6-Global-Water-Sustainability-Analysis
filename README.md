@@ -87,12 +87,6 @@ This project highlights the importance of integrating multiple indicators to und
 
 ---
 
-## 🔗 Project Output
-
-(Add your Power BI Public Link here)
-
----
-
 ## 🙌 Acknowledgements
 
 * United Nations SDG 6 Data Portal for open-access datasets
